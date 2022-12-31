@@ -1,0 +1,4 @@
+{
+  "jest.rootPath": "interpreter",
+  "jest.jestCommandLine": "npx jest"
+}
