@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monty/static/css/main.1ddaa8f9.css",
+    "main.js": "/monty/static/js/main.94e49ac5.js",
+    "static/js/787.c1112931.chunk.js": "/monty/static/js/787.c1112931.chunk.js",
+    "index.html": "/monty/index.html",
+    "main.1ddaa8f9.css.map": "/monty/static/css/main.1ddaa8f9.css.map",
+    "main.94e49ac5.js.map": "/monty/static/js/main.94e49ac5.js.map",
+    "787.c1112931.chunk.js.map": "/monty/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ddaa8f9.css",
+    "static/js/main.94e49ac5.js"
+  ]
+}
